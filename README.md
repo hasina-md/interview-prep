@@ -1,5 +1,4 @@
 # interview-prep
-# interview-prep
 
 ## 1.	What is semantic HTML and why is it important? Can you provide examples of semantic HTML5 tags?
 ```
